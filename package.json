@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "create_viewer_env": "create_viewer_env -m",
+    "postinstall": "npm run create_viewer_env",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
