@@ -1,0 +1,23 @@
+{
+  "name": "spinal-env-viewer-joint-context_studio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spinalcom/spinal-env-viewer-joint-context_studio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spinalcom/spinal-env-viewer-joint-context_studio/issues"
+  },
+  "homepage": "https://github.com/spinalcom/spinal-env-viewer-joint-context_studio#readme",
+  "dependencies": {
+    "spinal-env-viewer-plugin-context_studio": "https://github.com/spinalcom/spinal-env-viewer-plugin-context_studio.git"
+  }
+}
